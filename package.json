@@ -1,0 +1,26 @@
+{
+  "name": "capit",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "cheerio": "^0.22.0",
+    "clarifai": "^2.1.6",
+    "react": "^15.5.4",
+    "react-addons-css-transition-group": "^15.5.2",
+    "react-addons-transition-group": "^15.5.2",
+    "react-dom": "^15.5.4",
+    "react-dropzone": "^3.13.1",
+    "reactstrap": "^4.5.0",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

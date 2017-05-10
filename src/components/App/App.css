@@ -1,0 +1,69 @@
+#dropzone {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 315px !important;
+  height: 315px !important;
+}
+
+#dropzone:hover {
+  cursor: pointer;
+  background: lightgrey;
+}
+
+.img-icon {
+  margin: 0 auto;
+}
+
+.pagination-icon {
+  width: 35px;
+  height: 35px;
+}
+
+.pagination-icon:hover {
+  cursor: pointer;
+}
+
+.trash-icon {
+  max-height: 20px;
+  margin-left: 8px;
+}
+
+.trash-icon:hover {
+  cursor: pointer;
+}
+
+#captions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.captionCard {
+  width: 90%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.main-image {
+  margin: 0 auto;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.tags {
+  margin-top: 20px;
+}
+
+#lyrics {
+  color: slategray;
+  font-style: italic;
+  font-size: medium;
+}
+
+#meta {
+  font-size: small;
+  margin-top: 20px;
+}
